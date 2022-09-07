@@ -1,0 +1,2 @@
+使用Java17
+mysql設定:application.properties
